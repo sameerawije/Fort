@@ -1,0 +1,3 @@
+﻿3324 13:43:20 INFO  Warming and Caching your search indexes
+3324 13:43:20 INFO  /******* Warming Queries ********/
+3324 13:43:20 INFO  /*************************/
